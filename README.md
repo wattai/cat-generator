@@ -1,5 +1,7 @@
 # A cat generator with TypeScript Next.js
 
+![front-cover](images/front-cover.png)
+
 This is a really simple project that shows a variety of cats with Next.js with TypeScript.
 
 ## Deploy your own
