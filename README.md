@@ -1,6 +1,6 @@
-# TypeScript Next.js example
+# A cat generator with TypeScript Next.js
 
-This is a really simple project that shows the usage of Next.js with TypeScript.
+This is a really simple project that shows a variety of cats with Next.js with TypeScript.
 
 ## Deploy your own
 
